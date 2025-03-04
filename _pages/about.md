@@ -20,21 +20,13 @@ Research Interests
 
 **Crowdsensing**: Incentive Mechanism, Optimization
 
-Unpublished Research
-------
-1. **Yuanhang Zhou**, Shubo Peng, Hanzheng Lyu, et al., “KLOTSKI: Towards Consensus Enabled Collaborative Vehicles in Intelligent Transportation,” submitted to *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under review.
-1. Mohan Yu, **Yuanhang Zhou**, Fei Tong, et al., “OUTTASKER: Enabling Secure Outsourced Computation
- TransactionsviaBlockchain,” submitted to *IEEE Transactionson Information Forensics & Security(TIFS)*, Under
- review.
-1. Mohan Yu, Fei Tong, **Yuanhang Zhou**, et al., “SPOE: Scaling Blockchain via Secure and Practical Off
-chain Execution,” submitted to *IEEE Transactions on Information Forensics & Security (TIFS)*, Under review.
-1. “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” Under research.
-
 Publications
 ------
-1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “[A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain](https://ieeexplore.ieee.org/document/10443590),” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024. **CCF-A**.
-1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” *IEEE Transactions on Mobile Computing (TMC)*. 2022. **CCF-A**.
-1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, Yuqing Ding, Dejun Yang, Linfeng Liu, “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” *ACM Transactions on Internet Technology*. 2022. **CCF-B**.
+1. **<small>[TMC'25]</small>** **Yuanhang Zhou**, Fei Tong, Chunming Kong, Shibo He, Guang Cheng, “Towards Efficient, Robust, and Privacy-preserving Incentives for Crowdsensing via Blockchain,” *IEEE Transactions on Mobile Computing (TMC)*. 2025.
+1. **<small>[MSN'24]</small>** **Yuanhang Zhou**, Chunming Kong, Fei Tong, “Enabling Privacy-preserving Incentives for Blockchain-based Mobile Crowdsensing,” *International Conference on Mobility, Sensing and Networking (MSN)*. 2024.
+1. **<small>[TDSC'24]</small>** Fei Tong, **Yuanhang Zhou**, Kaiming Wang, Guang Cheng, Jianyu Niu, Shibo He, “[A Privacy-Preserving Incentive Mechanism for Mobile Crowdsensing based on Blockchain](https://ieeexplore.ieee.org/document/10443590),” *IEEE Transactions on Dependable and Secure Computing (TDSC)*. 2024.
+1. **<small>[TMC'22]</small>** **Yuanhang Zhou**, Fei Tong, Shibo He, “[Bi-objective Incentive Mechanism for Mobile Crowdsensing with Budget/Cost Constraint](https://ieeexplore.ieee.org/abstract/document/9992184),” *IEEE Transactions on Mobile Computing (TMC)*. 2022.
+1. **<small>[TOIT'22]</small>** Jia Xu, **Yuanhang Zhou**, Gongyu Chen, Yuqing Ding, Dejun Yang, Linfeng Liu, “[Topic-aware Incentive Mechanism for Task Diffusion in Mobile Crowdsourcing through Social Network](https://dl.acm.org/doi/abs/10.1145/3487580),” *ACM Transactions on Internet Technology*. 2022.
 1. **<small>[IoTJ'21]</small>** Jia Xu, **Yuanhang Zhou**, Yuqing Ding, Dejun Yang, Lijie Xu, “[Biobjective Robust Incentive Mechanism Design for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/9403382),” *IEEE Internet of Things Journal (IoTJ)*. 2021.
 1. **<small>[TVT'21]</small>** Jia Xu, Gongyu Chen, **Yuanhang Zhou**, Zhengqiang Rao, Dejun Yang, Cuihua Xie, “[Incentive Mechanisms for Large-Scale Crowdsourcing Task Diffusion Based on Social Influence](https://ieeexplore.ieee.org/abstract/document/9369101),” *IEEE Transactions on Vehicular Technology (TVT)*. 2021.
 
@@ -64,6 +56,8 @@ Department of Computer Science and Engineering, advisor: [Jianyu Niu](https://ji
 
 Research Experience
 ------
+* **Enabling and Incentivizing Unlearning in Blockchain**, 2024.7 – Present.
+* 
 * **Confidential Smart Contracts**, 2023.11 – 2024.6.
   
 * **Dynamic Consensus for Intelligent Transportation**, 2023.6 – 2024.1.
@@ -82,6 +76,8 @@ Professional Activities
 
 * **Reviewer**
 
+ Transactions on Parallel and Distributed Systems (TPDS)
+
   IEEE/CIC International Conference on Communications in China (ICCC)
   
   Peer-to-Peer Networking and Applications (PPNA)
@@ -99,4 +95,4 @@ Technical Abilities
 * Language: **TOEFL 102 (R28 L27 S22 W25)**, experienced in academic writing
 
  
-Last updated: 2024/09.
+Last updated: 2025/03.
